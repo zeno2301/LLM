@@ -51,9 +51,9 @@
           "height": 73
         },
         "id": "94bfsTaSBqaZ",
-        "outputId": "28135904-e090-42f3-8401-1c939f45c09b"
+        "outputId": "de4333b6-7985-4880-c443-f5dd7502d750"
       },
-      "execution_count": 2,
+      "execution_count": 4,
       "outputs": [
         {
           "output_type": "display_data",
@@ -63,9 +63,9 @@
             ],
             "text/html": [
               "\n",
-              "     <input type=\"file\" id=\"files-4a0a92fa-b9ce-43d9-b814-22ff04f535a4\" name=\"files[]\" multiple disabled\n",
+              "     <input type=\"file\" id=\"files-f5d5c572-b8ca-4fc7-9103-b7e141d3ddbc\" name=\"files[]\" multiple disabled\n",
               "        style=\"border:none\" />\n",
-              "     <output id=\"result-4a0a92fa-b9ce-43d9-b814-22ff04f535a4\">\n",
+              "     <output id=\"result-f5d5c572-b8ca-4fc7-9103-b7e141d3ddbc\">\n",
               "      Upload widget is only available when the cell has been executed in the\n",
               "      current browser session. Please rerun this cell to enable.\n",
               "      </output>\n",
@@ -253,7 +253,7 @@
           "output_type": "stream",
           "name": "stdout",
           "text": [
-            "Saving diabetes.csv to diabetes.csv\n"
+            "Saving diabetes.csv to diabetes (1).csv\n"
           ]
         }
       ]
@@ -319,9 +319,9 @@
           "height": 1000
         },
         "id": "_s-gQRYI_DQQ",
-        "outputId": "47325973-7b9b-41d1-9593-a43e7ddcc1b7"
+        "outputId": "bd20dd19-3e65-441e-b802-d3fb902948a0"
       },
-      "execution_count": 3,
+      "execution_count": 5,
       "outputs": [
         {
           "output_type": "stream",
